@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Bem vindo, aqui você pode conhecer um pouco sobre trabalhos e projetos pessoais.
+#### Bem vindo, aqui você pode conhecer um pouco sobre meus trabalhos e projetos pessoais.
 
 
 <!--
