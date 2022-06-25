@@ -3,6 +3,7 @@
 #### Bem vindo, aqui você pode conhecer um pouco sobre meus trabalhos e projetos pessoais.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniorony)](https://github.com/antoniorony/github-readme-stats)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniorony&layout=compact&langs_count=7&theme=dracula"/>
 <!--
 **antoniorony/antoniorony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
